@@ -33,14 +33,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Scholar 
-
-gems: ['jekyll/scholar']
-
-scholar:
-  source: .
-  bibliography: bib.bib
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
