@@ -112,7 +112,7 @@ permalink: /cv/
 <tbody>
 <tr class="odd">
 <td style="text-align: right;">2013–2016</td>
-<td style="text-align: left;"><em>Language at Leeds (L@L) PGR representative</em>. I am the postgraduate student representative for the University of Leeds initiative, Language at Leeds. The aim L@L is to bring together researchers whose research focusses on Language. As part of my role I help organise a fornightly postgraduate seminar and workshops tailored towards the specific needs of our PGR community. I also help run and edit the Leeds working papers in linguistics and phonetics. In addition to these duties, in 2014 I helped organise an international conference addressing Multimodality.</td>
+<td style="text-align: left;"><em>Language at Leeds (L@L) PGR representative</em>. I was the postgraduate student representative for the University of Leeds initiative, Language at Leeds. The aim L@L is to bring together researchers whose research focusses on Language. As part of my role I help organise a fornightly postgraduate seminar and workshops tailored towards the specific needs of our PGR community. I also help run and edit the Leeds working papers in linguistics and phonetics. In addition to these duties, in 2014 I helped organise an international conference addressing Multimodality.</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;">2011–2013</td>
