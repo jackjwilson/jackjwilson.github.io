@@ -68,8 +68,8 @@ permalink: /cv/
 ### memberships
 <table style="width:99%;">
 <colgroup>
-<col style="width: 15%" />
-<col style="width: 83%" />
+<col style="width: 98%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody>
 <tr class="odd">
