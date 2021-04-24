@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-I am a lecturer in linguistics at the University of Salford. My research attempts to address the following question: 
+I am a Lecturer in Linguistics at the University of Salford. My research attempts to address the following question: 
 
 __What is meaning in language and how does it differ from meaning we find elsewhere?__ 
 
