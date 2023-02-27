@@ -11,10 +11,7 @@ permalink: /publications/
 <col style="width: 97%" />
 </colgroup>
 <tbody>
-<tr class="odd">
-<td></td>
-<td style="text-align: left;">Wilson, J. J., Watson, J.C.E, Oudyk, A. (forthcoming) Language, Gesture and Ecology in Modern South Arabian Languages.</td>
-</tr>
+
 </tbody>
 </table>
 
@@ -29,7 +26,10 @@ permalink: /publications/
 <col style="width: 97%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr class="even">
+<td></td>
+<td style="text-align: left;">Wilson, J. J., Watson, J.C.E, Oudyk, A. (forthcoming) Language, Gesture and Ecology in Modern South Arabian Languages.</td>
+</tr><tr class="odd">
 <td></td>
 <td style="text-align: left;">Price, H. and Wilson, J. J. (2019) Relevance Theory and Metaphor: An analysis of Tom Waits’ ‘Emmotional Weather Report’ <em>Lanuage and Literature</em>, 28 (1)</td>
 </tr>
