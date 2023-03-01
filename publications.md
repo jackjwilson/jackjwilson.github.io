@@ -28,10 +28,10 @@ permalink: /publications/
 <tbody>
 <tr class="even">
 <td></td>
-<td style="text-align: left;">Wilson, J. J., Watson, J.C.E, Oudyk, A. (2023) Language, Gesture and Ecology in Modern South Arabian Languages.</td>
+<td style="text-align: left;">Wilson, J. J., Watson, J.C.E, Oudyk, A., and al-Qumairi, S. (2022) Language, Gesture and Ecology in Modern South Arabian Languages. In Watson, J.C.E., Lovett, J.C., and Morano, R. (eds.) <em> Language and Ecology in Southern and Eastern Arabia </em> Bloomsbury</td>
 <tr class="even">
 <td></td>
-<td style="text-align: left;">Morris, L. E., Innes, A., Smith, S. K., Wilson, J. J., Bushell, S. and Wyatt M. E. (2021) 'A qualitative evaluation of the impact of a Good Life Club on people living with dementia and care partners', <em>Dementia: The International Journal of Social Research and Practice</em>, 20 (7) , pp. 2478-2493.</td>
+<td style="text-align: left;">Morris, L. E., Innes, A., Smith, S. K., Wilson, J. J., Bushell, S. and Wyatt M. E. (2021) 'A qualitative evaluation of the impact of a Good Life Club on people living with dementia and care partners', <em>Dementia: The International Journal of Social Research and Practice</em>, 20 (7), 2478-2493.</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -54,7 +54,7 @@ permalink: /publications/
 </tbody>
 </table>
 
-## Review Articles
+## book reviews 
 
 <table style="width:99%;">
 <colgroup>
@@ -63,17 +63,17 @@ permalink: /publications/
 </colgroup>
 <tbody>
 <tr class="even">
-<td style="text-align: left;">Cognitive Pragmatics</td>
+<td style="text-align: left;"> Wilson, J.J. (2022) 'Panther K. (2022) Introduction to Cognitive Pragmatics' <em> Journal of Pragmatics</em> 206:1-4</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Relevance theory</td>
+<td style="text-align: left;">Wilson, J.J. (2021) 'Piskorska, A. (ed.) Relevance theory, figuration, and continuity in Pragmatics' <em>Journal of Pragmatics</em> 178:18-20</td>
 </tr></tbody>
 </table>
 
 
 # conference presentations, posters, and invited talks
 
-## Conference presentations
+## conference presentations
 
 <table style="width:99%;">
 <colgroup>
@@ -83,26 +83,22 @@ permalink: /publications/
 <tbody>
 
 <tr class="odd">
-<td style="text-align: right;">2022</td>
-<td style="text-align: left;">IPRA talk</td>
-</tr>
-
-<tr class="odd">
-<td style="text-align: right;">2022</td>
-<td style="text-align: left;">SPINfest talk</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: left;">Wilson, J.J. (2021) 'Inferring meaning from composite utterances: The flexibility of multimodal communicative acts'. Paper presented at 17th International Pragmatics Conference, 29th June 2021.</td>
 </tr>
 
 <tr class="even">
-<td style="text-align: right;">2022</td>
-<td style="text-align: left;">Ecolinguistics Conference</td>
+<td style="text-align: right;"></td>
+<td style="text-align: left;">Boom, A., Wilson, J.J., Watson, J.C.E. (2021) 'From Naming to Numbers'. Paper presented at 5th International Conference on Ecolinguistics, 13th April 2021</td>
 </tr>
 
 <tr class="odd">
 <td style="text-align: right;">2017</td>
-<td style="text-align: left;">Wilson, J. J. and Watson, J. C. E. (2017) The expression of direction and Orientation in Two Modern South Arabian language. Paper presented at NACAL 45, 10th June 2017. Leiden.</td>
+<td style="text-align: left;">Wilson, J. J. and Watson, J. C. E. (2017) 'The expression of direction and Orientation in Two Modern South Arabian language'. Paper presented at NACAL 45, 10th June 2017. Leiden.</td>
 <tr class="odd">
+
 <td style="text-align: right;"></td>
-<td style="text-align: left;">Wilson, J. J. (2017) Semantic Gestures. Paper presented at SPiNfest, 26th May 2017. Manchester.</td>
+<td style="text-align: left;">Wilson, J. J. (2017) 'Semantic Gestures'. Paper presented at SPiNfest, 26th May 2017. Manchester.</td>
 </tr>
 
 <tr class="odd">
@@ -111,7 +107,7 @@ permalink: /publications/
 </tr>
 
 <tr class="odd">
-<td style="text-align: right;"></td>
+<td style="text-align: right;">2016</td>
 <td style="text-align: left;">Wilson, J. & Price, H. (2016) ‘We’re not in a club now’: A neo-Peircean analysis of the co-construction of appropriate behaviour during a courtroom interaction’. Paper presented at LIAR IV, Manchester Metropolitan University, 12-14 July. </td>
 </tr>
 
@@ -158,20 +154,19 @@ permalink: /publications/
 </colgroup>
 <tbody>
 
-
 <tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"> Body UP poster</td>
+<td style="text-align: right;">2019</td>
+<td style="text-align: left;"> Wilson, J.J. and Argyriou, P. (2019) When do speakers share gesture perspective? Poster presented at Body-Up Conference. 13th June 2019, Manchester.</td>
 </tr>
 
 <tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"> Gesture poster</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: left;">Wilson, J.J. (2016) Communicating with gestures? Comparing two theories
+of multimodality to assess the use of gestures accompanying the preposition
+“around”. Poster presented at the International Society for Gesture Studies conference, July 21st 2016, Paris.</td>
 </tr>
 </tbody>
 </table>
-
-
 
 ## Invited talks
 
@@ -182,34 +177,25 @@ permalink: /publications/
 </colgroup>
 <tbody>
 
+<tr class="even">
+<td style="text-align: right;">2018</td>
+<td style="text-align: left;"> Wilson, J.J. (2018) <em>The importance of gesture for documenting language: A study of gesture in Modern South Arabian Languages</em>. Invited presentation at The University of Huddersfield, 7th November 2018, Huddersfield.</td>
+</tr>
 
 <tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;">Wilson, J. J. (2017) Gesture and spatial description in English and Modern South Arabian languages. Invited presentation at MPI 8th June 2017, Nijmegen.</td>
+<td style="text-align: right;">2017</td>
+<td style="text-align: left;"> Elan Workshop. Invited workshop at University of Huddersfield, 2nd November 2017</td>
+</tr>
+
+<tr class="even">
+<td style="text-align: right;">2017</td>
+<td style="text-align: left;">Wilson, J. J. (2017) <em>Gesture and spatial description in English and Modern South Arabian languages</em>. Invited presentation at MPI 8th June 2017, Nijmegen.</td>
 </tr>
 
 <tr class="even">
 <td style="text-align: right;"></td>
-<td style="text-align: left;"> Leeds gesture talk</td>
+<td style="text-align: left;">Wilson, J. J. (2017) <em>What are gestures used for doing?</em> Invited presentation as part of York St John Colloquium Lecture Series 8th November 2017, York</td>
 </tr>
-
-<tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"> Huddersfield gesture talk</td>
-</tr>
-
-<tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"> Elan Workshop. Invited workshop at University of Huddersfield</td>
-</tr>
-
-
-
-<tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;">Wilson, J. J. (2017) What are gestures used for doing? Invited presentation as part of York St John Colloquium Lecture Series 8th November 2017, York</td>
-</tr>
-
 
 <tr class="even">
 <td style="text-align: right;">2011</td>
