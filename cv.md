@@ -3,7 +3,7 @@ layout: page
 title: cv
 permalink: /cv/
 ---
-### personal information
+## personal information
 <table style="width:98%;">
 <colgroup>
 <col style="width: 16%" />
@@ -29,10 +29,7 @@ permalink: /cv/
 </tbody>
 </table>
 
-
-
-
-### teaching positions
+## employment history 
 <table style="width:98%;">
 <colgroup>
 <col style="width: 16%" />
@@ -54,13 +51,21 @@ permalink: /cv/
 </tbody>
 </table>
 
-### education
+## academic qualifications
+
 <table style="width:99%;">
 <colgroup>
 <col style="width: 15%" />
 <col style="width: 83%" />
 </colgroup>
 <tbody>
+<tr class="odd">
+<td style="text-align: right;"><span class="smallcaps">2018</span></td>
+<td style="text-align: left;">Fellow of Higher Education Academy<strong>AdvancedHE</strong></td>
+</tr><tr class="even">
+<td style="text-align: right;"><span class="smallcaps">2017-2018</span></td>
+<td style="text-align: left;">PGCAP<strong>University of Salford</strong></td>
+</tr>
 <tr class="odd">
 <td style="text-align: right;"><span class="smallcaps">2012 - 2016</span></td>
 <td style="text-align: left;">PhD, Department of Linguistics and Phonetics <strong>University of Leeds</strong>, Leeds Thesis: “What co-speech gestures do: investigating the communicative role of visual behaviour accompanying language use during reference in interaction” Supervisors: Dr Bethan <span class="smallcaps">Davies</span> &amp; Dr Catherine <span class="smallcaps">Davies</span></td>
@@ -76,7 +81,7 @@ permalink: /cv/
 </tbody>
 </table>
 
-### scholarships and prizes
+## scholarships and prizes
 <table style="width:99%;">
 <colgroup>
 <col style="width: 15%" />
@@ -84,6 +89,9 @@ permalink: /cv/
 </colgroup>
 <tbody>
 <tr class="odd">
+<td style="text-align: right;">2019</td>
+<td style="text-align: left;">Poetics and Linguistics Association (PALA) Prize</td>Award for best article by a newcomer to the field published in Language and Literature (co-authored with Hazel Price). 
+</tr><tr class="odd">
 <td style="text-align: right;">2012</td>
 <td style="text-align: left;">AHRC Doctoral Studentship (Three Years)</td>
 </tr>
@@ -94,7 +102,7 @@ permalink: /cv/
 </tbody>
 </table>
 
-### memberships
+## memberships
 <table style="width:99%;">
 <colgroup>
 <col style="width: 98%" />
@@ -102,25 +110,62 @@ permalink: /cv/
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">International Pragmatic Association</td>
+<td style="text-align: left;">International Pragmatic Association (IPRA)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">International Society for Gesture Studies</td>
 </tr>
+<tr class="odd">
+<td style="text-align: left;">Linguistics Association of Great Britain (LAGB)</td>
+</tr>
 </tbody>
 </table>
 
-### research positions
+## Research Grants 
+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+<col style="width: 2%" />
+</colgroup>
+<tbody>
+<tr class="even">
+<td style="text-align: left;"><em>Endangered Languages Documentation Programme (ELDP) Small Grant</em> with Janet Watson (PI) 2016-2017 - £10000</td>
+</tr>
+</tbody>
+</table>
+
+## Indications of External Recognition
+
+### Editorships and external appointments
+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+<col style="width: 2%" />
+</colgroup>
+<tbody>
+<tr class="even">
+<td style="text-align: left;"><em>Associate Editor for the IPrA Bibliography of Pragmatics online</em>, since 2019</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Exertnal Examiner University of Huddersfield: Linguistics modules on Undergraduate degrees including BA linguistics</em>, since 2022</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Exertnal Examiner University of Huddersfield: MRES theses x 3</em>, since 2020</td>
+<tr class="odd">
+<td style="text-align: left;"><em>Guest Lecturer for MASSOLIT <a href = "https://www.massolit.io/courses/gesture-in-communication">https://www.massolit.io/courses/gesture-in-communication</a></em></td>
+</tr>
+</tbody>
+</table>
+
+### Research positions
 <table style="width:99%;">
 <colgroup>
 <col style="width: 6%" />
 <col style="width: 92%" />
 </colgroup>
 <tbody>
-<tr class="even">
-<td style="text-align: right;">2019–present</td>
-<td style="text-align: left;"><em>Associate Editor for the IPrA Bibliography of Pragmatics online</em></td>
-</tr>
 <tr class="odd">
 <td style="text-align: right;">2014–2016</td>
 <td style="text-align: left;">LPRG Institutionalised Impoliteness Research Assistant (Grade 5) Research Team: Linguistics Politeness Research Group (LPRG) </td>
@@ -131,24 +176,4 @@ permalink: /cv/
 </tr>
 </tbody>
 </table>
-
-### additional experience
-<table style="width:100%;">
-<colgroup>
-<col style="width: 2%" />
-<col style="width: 97%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: right;">2013–2016</td>
-<td style="text-align: left;"><em>Language at Leeds (L@L) PGR representative</em>. I was the postgraduate student representative for the University of Leeds initiative, Language at Leeds. The aim L@L is to bring together researchers whose research focusses on Language. As part of my role I help organise a fornightly postgraduate seminar and workshops tailored towards the specific needs of our PGR community. I also help run and edit the Leeds working papers in linguistics and phonetics. In addition to these duties, in 2014 I helped organise an international conference addressing Multimodality.</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">2011–2013</td>
-<td style="text-align: left;"><em>Clark SOL</em>. These supported open learning sessions were organised as part of a second year undergraduate linguistics module at York St John University. As part of the module students are required to read Herbert Clark’s (1996) textbook, <em>Using Language</em>. My role was to create an environment in which students could engage in discussion regarding the text.</td>
-</tr>
-</tbody>
-</table>
-
-
 <hr />
