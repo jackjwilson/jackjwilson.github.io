@@ -61,10 +61,10 @@ permalink: /cv/
 <tbody>
 <tr class="odd">
 <td style="text-align: right;"><span class="smallcaps">2018</span></td>
-<td style="text-align: left;">Fellow of Higher Education Academy<strong>AdvancedHE</strong></td>
+<td style="text-align: left;">Fellow of Higher Education Academy <strong>AdvancedHE</strong></td>
 </tr><tr class="even">
 <td style="text-align: right;"><span class="smallcaps">2017-2018</span></td>
-<td style="text-align: left;">PGCAP<strong>University of Salford</strong></td>
+<td style="text-align: left;">PGCAP <strong>University of Salford</strong></td>
 </tr>
 <tr class="odd">
 <td style="text-align: right;"><span class="smallcaps">2012 - 2016</span></td>
@@ -90,8 +90,8 @@ permalink: /cv/
 <tbody>
 <tr class="odd">
 <td style="text-align: right;">2019</td>
-<td style="text-align: left;">Poetics and Linguistics Association (PALA) Prize</td>Award for best article by a newcomer to the field published in Language and Literature (co-authored with Hazel Price). 
-</tr><tr class="odd">
+<td style="text-align: left;"><em> Poetics and Linguistics Association (PALA)</em> Prize Award for best article by a newcomer to the field published in Language and Literature (co-authored with Hazel Price).</tr>
+<tr class="odd">
 <td style="text-align: right;">2012</td>
 <td style="text-align: left;">AHRC Doctoral Studentship (Three Years)</td>
 </tr>
