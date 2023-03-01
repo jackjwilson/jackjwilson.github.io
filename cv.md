@@ -3,6 +3,35 @@ layout: page
 title: cv
 permalink: /cv/
 ---
+### personal information
+<table style="width:98%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 81%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;"><em>Address: </em></td>
+<td style="text-align: left;">School of Arts, Media, &amp Creative Technology, 204 Crescent House</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"><em>Website (work): </em></td>
+<td style="text-align: left;"><a href="https://www.salford.ac.uk/our-staff/jack-wilson">https://www.salford.ac.uk/our-staff/jack-wilson</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;"><em>Website (personal): </em></td>
+<td style="text-align: left;"><a href= "https://www.jackwilsonlinguist.com">https://www.jackwilsonlinguist.com</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"><em>Email: </em></td>
+<td style="text-align: left;"><a href="mailto:j.j.wilson@salford.ac.uk">j.j.wilson@salford.ac.uk</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
 ### teaching positions
 <table style="width:98%;">
 <colgroup>
@@ -12,7 +41,7 @@ permalink: /cv/
 <tbody>
 <tr class="odd">
 <td style="text-align: right;"><em>2016 - present</em></td>
-<td style="text-align: left;"><strong>University of Salford</strong> Position: Lecturer in English Langugae &amp; Salford Institute of Dementia Creativity Theme lead</td>
+<td style="text-align: left;"><strong>University of Salford</strong> Position: Lecturer in English Language &amp; Salford Institute of Dementia Creativity Theme lead</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;"><em>2015 - 2016</em></td>
