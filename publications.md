@@ -151,6 +151,14 @@ permalink: /publications/
 
 ## Posters
 
+<table style="width:99%;">
+<colgroup>
+<col style="width: 2%" />
+<col style="width: 96%" />
+</colgroup>
+<tbody>
+
+
 <tr class="even">
 <td style="text-align: right;"></td>
 <td style="text-align: left;"> Body UP poster</td>
@@ -160,9 +168,20 @@ permalink: /publications/
 <td style="text-align: right;"></td>
 <td style="text-align: left;"> Gesture poster</td>
 </tr>
+</tbody>
+</table>
+
 
 
 ## Invited talks
+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 2%" />
+<col style="width: 96%" />
+</colgroup>
+<tbody>
+
 
 <tr class="even">
 <td style="text-align: right;"></td>
@@ -196,4 +215,7 @@ permalink: /publications/
 <td style="text-align: right;">2011</td>
 <td style="text-align: left;">Wilson, J. J. (2011) <em>Student researchers: What are they worth?</em>. Paper presented as Keynote at The Student Researchers Conference: “Thinking Out Loud II”, November 2011. York.</td>
 </tr>
+</tbody>
+</table>
+
 
