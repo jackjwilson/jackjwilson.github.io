@@ -68,7 +68,7 @@ permalink: /cv/
 </tr>
 <tr class="odd">
 <td style="text-align: right;"><span class="smallcaps">2012 - 2016</span></td>
-<td style="text-align: left;">PhD, Department of Linguistics and Phonetics <strong>University of Leeds</strong>, Leeds Thesis: “What co-speech gestures do: investigating the communicative role of visual behaviour accompanying language use during reference in interaction” Supervisors: Dr Bethan <span class="smallcaps">Davies</span> &amp; Dr Catherine <span class="smallcaps">Davies</span></td>
+<td style="text-align: left;">PhD, Department of Linguistics and Phonetics <strong>University of Leeds</strong> Thesis: “What co-speech gestures do: investigating the communicative role of visual behaviour accompanying language use during reference in interaction” Supervisors: Dr Bethan <span class="smallcaps">Davies</span> &amp; Dr Catherine <span class="smallcaps">Davies</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: right;"><span class="smallcaps">2010 - 2011</span></td>
