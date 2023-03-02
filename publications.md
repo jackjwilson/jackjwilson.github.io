@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 ---
 
-# forthcoming
+<h1> forthcoming </h1>
 
 <table style="width:99%;">
 <colgroup>
@@ -131,7 +131,7 @@ permalink: /publications/
 </tbody>
 </table>
 
-<h1 id="conference-panels">Conference Panels</h1>
+<h2 id="conference-panels">Conference Panels</h2>
 <table style="width:99%;">
 <colgroup>
 <col style="width: 5%" />
