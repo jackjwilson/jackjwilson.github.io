@@ -80,42 +80,35 @@ permalink: /publications/
 <col style="width: 2%" />
 <col style="width: 96%" />
 </colgroup>
-<tbody>
 
+<tbody>
 <tr class="odd">
 <td style="text-align: right;">2021</td>
 <td style="text-align: left;">Wilson, J.J. (2021) 'Inferring meaning from composite utterances: The flexibility of multimodal communicative acts'. Paper presented at 17th International Pragmatics Conference, 29th June 2021.</td>
 </tr>
-
 <tr class="even">
 <td style="text-align: right;"></td>
 <td style="text-align: left;">Boom, A., Wilson, J.J., Watson, J.C.E. (2021) 'From Naming to Numbers'. Paper presented at 5th International Conference on Ecolinguistics, 13th April 2021</td>
 </tr>
-
 <tr class="odd">
 <td style="text-align: right;">2017</td>
 <td style="text-align: left;">Wilson, J. J. and Watson, J. C. E. (2017) 'The expression of direction and Orientation in Two Modern South Arabian language'. Paper presented at NACAL 45, 10th June 2017. Leiden.</td>
 <tr class="odd">
-
 <td style="text-align: right;"></td>
 <td style="text-align: left;">Wilson, J. J. (2017) 'Semantic Gestures'. Paper presented at SPiNfest, 26th May 2017. Manchester.</td>
 </tr>
-
 <tr class="odd">
 <td style="text-align: right;"></td>
 <td style="text-align: left;"> Price, H. & Wilson, J. (2017) ‘Metaphor, performance and comprehension: an analysis of Tom Waits’ ‘Emotional Weather Report’’. Paper presented at PALA 2017: Interdisciplinary Stylistics, University of West Chester, Pennsylvania, USA, 19-22 July.</td>
 </tr>
-
 <tr class="odd">
 <td style="text-align: right;">2016</td>
 <td style="text-align: left;">Wilson, J. & Price, H. (2016) ‘We’re not in a club now’: A neo-Peircean analysis of the co-construction of appropriate behaviour during a courtroom interaction’. Paper presented at LIAR IV, Manchester Metropolitan University, 12-14 July. </td>
 </tr>
-
 <tr class="even">
 <td style="text-align: right;">2015</td>
 <td style="text-align: left;">Wilson, J. J., Price, H., and Merrison, A. J. (2015) We’re not in a club now: A semiotic analysis of the co-construction of appropriate behaviour during a courtroom interaction. Paper presented at iMean4, 9th April 2015. Warwick</td>
 </tr>
-
 <tr class="odd">
 <td style="text-align: right;">2014</td>
 <td style="text-align: left;">Wilson, J. J. (2014) To gesture or not to gesture: Investigating the composition of multimodal communicative acts and their utility during a map task. Paper presented at University of Leeds postgraduate conference on Mulitmodality, August 2014. Leeds.</td>
@@ -159,7 +152,6 @@ permalink: /publications/
 <td style="text-align: right;">2019</td>
 <td style="text-align: left;"> Wilson, J.J. and Argyriou, P. (2019) When do speakers share gesture perspective? Poster presented at Body-Up Conference. 13th June 2019, Manchester.</td>
 </tr>
-
 <tr class="even">
 <td style="text-align: right;">2016</td>
 <td style="text-align: left;">Wilson, J.J. (2016) Communicating with gestures? Comparing two theories
