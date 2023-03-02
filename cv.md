@@ -3,7 +3,9 @@ layout: page
 title: cv
 permalink: /cv/
 ---
+
 ## personal information
+
 <table style="width:98%;">
 <colgroup>
 <col style="width: 16%" />
@@ -30,6 +32,7 @@ permalink: /cv/
 </table>
 
 ## employment history 
+
 <table style="width:98%;">
 <colgroup>
 <col style="width: 16%" />
@@ -82,6 +85,7 @@ permalink: /cv/
 </table>
 
 ## scholarships and prizes
+
 <table style="width:99%;">
 <colgroup>
 <col style="width: 15%" />
@@ -161,6 +165,7 @@ permalink: /cv/
 </table>
 
 ### Research positions
+
 <table style="width:99%;">
 <colgroup>
 <col style="width: 6%" />
@@ -177,4 +182,3 @@ permalink: /cv/
 </tr>
 </tbody>
 </table>
-<hr />
