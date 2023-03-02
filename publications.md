@@ -18,7 +18,7 @@ permalink: /publications/
 </tbody>
 </table>
 
-# journal articles and chapters
+<h1> journal articles and chapters </h1>
 
 <table style="width:99%;">
 <colgroup>
@@ -54,7 +54,7 @@ permalink: /publications/
 </tbody>
 </table>
 
-## book reviews 
+<h1> book reviews </h1>
 
 <table style="width:99%;">
 <colgroup>
@@ -71,9 +71,9 @@ permalink: /publications/
 </table>
 
 
-# conference presentations, posters, and invited talks
+<h1>  conference presentations, posters, and invited talks </h1>
 
-## conference presentations
+<h2> conference presentations </h2>
 
 <table style="width:99%;">
 <colgroup>
@@ -131,7 +131,8 @@ permalink: /publications/
 </tbody>
 </table>
 
-<h2 id="conference-panels">Conference Panels</h2>
+<h2 id="conference-panels">conference panels</h2>
+
 <table style="width:99%;">
 <colgroup>
 <col style="width: 5%" />
@@ -145,7 +146,7 @@ permalink: /publications/
 </tbody>
 </table>
 
-## Posters
+<h2> posters </h2>
 
 <table style="width:99%;">
 <colgroup>
@@ -168,7 +169,7 @@ of multimodality to assess the use of gestures accompanying the preposition
 </tbody>
 </table>
 
-## Invited talks
+<h2> invited talks </h2>
 
 <table style="width:99%;">
 <colgroup>
