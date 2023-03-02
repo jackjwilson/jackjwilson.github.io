@@ -103,6 +103,7 @@ permalink: /cv/
 </table>
 
 ## memberships
+
 <table style="width:99%;">
 <colgroup>
 <col style="width: 98%" />
