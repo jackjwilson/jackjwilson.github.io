@@ -4,6 +4,7 @@ title: cv
 permalink: /cv/
 ---
 
+
 ## personal information
 
 <table style="width:98%;">
@@ -14,7 +15,7 @@ permalink: /cv/
 <tbody>
 <tr class="odd">
 <td style="text-align: right;"><em>Address: </em></td>
-<td style="text-align: left;">School of Arts, Media, &amp Creative Technology, 204 Crescent House</td>
+<td style="text-align: left;">School of Arts, Media, & Creative Technology, 204 Crescent House</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;"><em>Website (work): </em></td>
@@ -45,11 +46,11 @@ permalink: /cv/
 </tr>
 <tr class="even">
 <td style="text-align: right;"><em>2015 - 2016</em></td>
-<td style="text-align: left;"><strong>York St John University</strong> Postion: Lecturer &amp; Seminar Tutor </td>
+<td style="text-align: left;"><strong>York St John University</strong> Position: Lecturer &amp; Seminar Tutor </td>
 </tr>
 <tr class="odd">
 <td style="text-align: right;"><em>2014 - 2016</em></td>
-<td style="text-align: left;"><strong>University of Leeds</strong> Postion: Lecturer &amp; Seminar Tutor (MA and BA) </td>
+<td style="text-align: left;"><strong>University of Leeds</strong> Position: Lecturer &amp; Seminar Tutor (MA and BA) </td>
 </tr>
 </tbody>
 </table>
